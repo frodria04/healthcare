@@ -1,8 +1,8 @@
-Hosptial Data Managemnt System 
+Hosptial Data Management System 
 
 #Overview
 
-This project is a Hosptial Data Managemnt System built with Python. It helps healthcare facilities easily manage information about patients, doctors, and departments. The system uses SQLite for storing data securely, Streamlit for a user-friendly interface, and Pandas for efficient data handling. It also includes special features designed specifically for doctors and medical lab scientists.
+This project is a Hosptial Data Management System built with Python. It helps healthcare facilities easily manage information about patients, doctors, and departments. The system uses SQLite for storing data securely, Streamlit for a user-friendly interface, and Pandas for efficient data handling. It also includes special features designed specifically for doctors and medical lab scientists.
 
 #Features
 
@@ -28,10 +28,10 @@ User Training Materials: Guides and tutorials to help users understand how to us
 
 #How to Install
 
-Download the project by running: git clone https://github.com/ashkaaar/healthcare-management-system.git
-Open the project folder: cd healthcare-management-system
-Install the required software: pip install -r requirements.txt
-Start the application: streamlit run main.py
+Download the project by running
+Open the project folder
+Install the required software
+Start the application
 
 #How to Use
 
